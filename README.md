@@ -2,6 +2,6 @@
 
 IA generativa reactiva.
 
-programada con pure data: https://puredata.info/
+Programada con pure data: https://puredata.info/
 
 
