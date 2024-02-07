@@ -1,6 +1,6 @@
 # Laboratorio_2024.
 
-IA generativa reactiva = Sistema inmersivo con cierto grado de inteligencia, memoria, autonomía y reactividad que se adentra en la distopia de la guerra y sus efectos en la condición humana.
+IA generativa reactiva = Sistema inmersivo con cierto grado de inteligencia, aleatoriedad, memoria, autonomía y reactividad que se adentra en la distopia de la guerra y sus efectos en la condición humana.
 
 Programada con pure data: [https://puredata.info/]
 +
