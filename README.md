@@ -8,3 +8,5 @@ botifAI.app: [https://www.botifai.app/]
 
 CID (content ID): [https://bafybeihxxcytm6fwpvpzrii2egiv2xnp3sstuokhctzcwtuwpcajh5ufja.ipfs.nftstorage.link/]
 
+Donations: 0xC634Ed95831acB0429084e7B2456508651d8BF71
+
