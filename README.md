@@ -1,4 +1,4 @@
-# laboratorio_2024.
+# Laboratorio_2024.
 
 IA generativa reactiva = Sistema inmersivo con cierto grado de inteligencia, memoria, autonomía y reactividad que se adentra en la distopia de la guerra y sus efectos en la condición humana.
 
