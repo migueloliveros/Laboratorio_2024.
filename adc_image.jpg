@@ -1,0 +1,33 @@
+//sound input from a microphone to an image transformation
+import ddf.minim.*;
+
+Minim minim;
+AudioInput in;
+PImage img;
+float imgSize;
+
+void setup() {
+  size(400, 400);
+
+  minim = new Minim(this);
+  in = minim.getLineIn();
+
+  img = loadImage("image.jpg");  // Load your image file
+  imgSize = width / 2;  // Initial size of the image
+
+  imageMode(CENTER);
+}
+
+void draw() {
+  background(255);
+
+  // Calculate image size based on sound input
+  imgSize = map(in.left.get(0), 0, 1, width/2, width);
+
+  // Calculate image position based on sound input
+  float imgX = map(in.left.get(0), 0, 1, 0, width);
+  float imgY = height/2;
+
+  // Display the transformed image
+  image(img, imgX, imgY, imgSize, imgSize);
+}
